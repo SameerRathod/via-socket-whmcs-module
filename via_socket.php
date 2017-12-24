@@ -1,8 +1,8 @@
 <?php
 /* WHMCS ViaSocket Addon with GNU/GPL Licence
- * ViaSocket - http://www.MSG91.com
+ * ViaSocket - http://www.viasocket.com
  *
- * https://github.com/ViaSocket/ViaSocket-WHMCS-Plugin
+ * https://github.com/SameerRathod/via-socket-whmcs-module.git
  *
  *
  * Licence: GPLv3 (http://www.gnu.org/licenses/gpl-3.0.txt)
@@ -14,7 +14,7 @@ if (!defined("WHMCS"))
 function via_socket_config() {
     $configarray = array(
         "name" => "Socket",
-        "description" => "WHMCS ViaSocket Addon. You can see details from: https://github.com/via_socket/ViaSocket-WHMCS-Plugin",
+        "description" => "WHMCS ViaSocket Addon. You can see details from: https://github.com/SameerRathod/via-socket-whmcs-module.git",
         "version" => "1.1",
         "author" => "Sameer Rathod",
 		"language" => "english",

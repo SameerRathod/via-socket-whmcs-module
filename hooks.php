@@ -1,8 +1,8 @@
 <?php
 /* WHMCS ViaSocket Addon with GNU/GPL Licence
- * ViaSocket - http://www.MSG91.com
+ * ViaSocket - http://www.viasocket.com
  *
- * https://github.com/ViaSocket/ViaSocket-WHMCS-Plugin
+ * https://github.com/SameerRathod/via-socket-whmcs-module.git
  *
  *
  * Licence: GPLv3 (http://www.gnu.org/licenses/gpl-3.0.txt)
